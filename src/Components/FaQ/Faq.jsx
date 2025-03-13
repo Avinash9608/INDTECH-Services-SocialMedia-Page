@@ -56,24 +56,24 @@ const faqData = [
       "The choice between cross-platform and native app development depends on your business requirements. Native apps are recommended for businesses needing long-term growth, a seamless user experience, high performance, and responsiveness. Cross-platform apps are suitable when targeting both iOS and Android platforms to reach a broader audience. As the top app development company, we provide expert recommendations tailored to your business’s needs for success.",
   },
   {
-    question: " What is needed to develop a mobile app?",
+    question: "What is needed to develop a mobile app?",
     answer:
       "The choice between cross-platform and native app development depends on your business requirements. Native apps are recommended for businesses needing long-term growth, a seamless user experience, high performance, and responsiveness. Cross-platform apps are suitable when targeting both iOS and Android platforms to reach a broader audience. As the top app development company, we provide expert recommendations tailored to your business’s needs for success.",
   },
   {
     question:
-      "What are the key factors that influence the success of a mobile app?",
+      "  What are the key factors that influence the success of a mobile app?",
     answer:
       "The choice between cross-platform and native app development depends on your business requirements. Native apps are recommended for businesses needing long-term growth, a seamless user experience, high performance, and responsiveness. Cross-platform apps are suitable when targeting both iOS and Android platforms to reach a broader audience. As the top app development company, we provide expert recommendations tailored to your business’s needs for success.",
   },
   {
     question:
-      "Is cross-platform app development better than native app development?",
+      " Is cross-platform app development better than native app development?",
     answer:
       "The choice between cross-platform and native app development depends on your business requirements. Native apps are recommended for businesses needing long-term growth, a seamless user experience, high performance, and responsiveness. Cross-platform apps are suitable when targeting both iOS and Android platforms to reach a broader audience. As the top app development company, we provide expert recommendations tailored to your business’s needs for success.",
   },
   {
-    question: "Do I own the ownership and the code of my application?",
+    question: " Do I own the ownership and the code of my application?",
     answer:
       "The choice between cross-platform and native app development depends on your business requirements. Native apps are recommended for businesses needing long-term growth, a seamless user experience, high performance, and responsiveness. Cross-platform apps are suitable when targeting both iOS and Android platforms to reach a broader audience. As the top app development company, we provide expert recommendations tailored to your business’s needs for success.",
   },
